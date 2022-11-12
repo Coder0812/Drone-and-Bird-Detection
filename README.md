@@ -207,7 +207,7 @@ https://user-images.githubusercontent.com/88026146/201492792-088bf1fd-ae56-4710-
 Refrences
 1] Roboflow :- https://roboflow.com/
 
-2] Datasets or images used: https://www.gettyimages.in/search/2/image?family=creative&phrase=fire%20and%20smoke&sort=mostpopular&mediatype=photography
+2] Datasets or images used: https://www.gettyimages.in/search/2/image?license=rf&alloweduse=availableforalluses&family=creative&mediatype=photography&phrase=drone&sort=mostpopular
 
 3] Google images
 
