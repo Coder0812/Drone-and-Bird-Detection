@@ -212,13 +212,12 @@ Refrences
 
 3] Google images
 
-References
-[1] Lucas-Borja M.E., González-Romero J., Plaza- Álvarez P.A., Sagra J., Gómez M.E., Moya D., Heras J., et al. The impact of straw mulching and salvage logging on post-fire runoff and soil erosion generation under mediterranean climate conditions Sci. Total Environ., 654 (2019), pp. 441-451, 10.1016/j.scitotenv.2018.11.161 ArticleDownload PDFView Record in ScopusGoogle Scholar
+References:
 
-[2] Lucas-Borja M.E., Hedo J., Cerdá A., Candel-Pérez D., Viñegla B. Unravelling the importance of forest age stand and forest structure driving microbiological soil properties, enzymatic activities and soil nutrients content in mediterranean spanish black pine (pinus nigra ar. ssp. salzmannii) forest Sci. Total Environ., 562 (2016), pp. 145-154, 10.1016/j.scitotenv.2016.03.160 ArticleDownload PDFView Record in ScopusGoogle Scholar
-
-[3] Pan Y., Birdsey R.A., Phillips O.L., Jackson R.B. The structure, distribution, and biomass of the world’s forests Annu. Rev. Ecol. Evol. Syst., 44 (2013), pp. 593-622, 10.1146/annurev-ecolsys-110512-135914  View PDF View Record in ScopusGoogle Scholar
-
-[4] Martinez-de Dios J.R., Arrue B.C., Ollero A., Merino L., Gómez-Rodríguez F. Computer vision techniques for forest fire perception Image Vis. Comput., 26 (4) (2008), pp. 550-562, 10.1016/j.imavis.2007.07.002 ArticleDownload PDFView Record in ScopusGoogle Scholar
-
-[5]Harrison M.E., Page S.E., Limin S.H. The global impact of Indonesian forest fires Biologist, 56 (3) (2009), pp. 156-163 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.6831&rep=rep1&type=pdf View Record in ScopusGoogle Scholar
+1. Zeng, Y.; Zhang, R.; Lim, T.J. Wireless Communications with Unmanned Aerial Vehicles: Opportunities and Challenges. IEEE Commun. Mag. 2016, 54, 36–42.
+2. World Economic Forum. Drones and Tomorrow’s Airspace. 2020. Available online: https://www.weforum.org/communities/drones-and-tomorrow-s-airspace (accessed on 13 January 2022).
+3. Scott, G.; Smith, T. Disruptive Technology: What Is Disruptive Technology? Investopedia 2020. Available online: https://www.investopedia.com/terms/d/disruptive-technology.asp/ (accessed on 13 January 2022).
+4. Germen, M. Alternative cityscape visualisation: Drone shooting as a new dimension in urban photography. In Proceedings of the Electronic Visualisation and the Arts (EVA), London, UK, 12–14 July 2016; pp. 150–157.
+5. Kaufmann, E.; Gehrig, M.; Foehn, P.; Ranftl, R.; Dosovitskiy, A.; Koltun, V.; Scaramuzza, D. Beauty and the beast: Optimal methods meet learning for drone racing. In Proceedings of the IEEE International Conference on Robotics and Automation, Montreal, QC, Canada, 20–24 May 2019; pp. 690–696.
+6. Kaufmann, E.; Loquercio, A.; Ranftl, R.; Dosovitskiy, A.; Koltun, V.; Scaramuzza, D. Deep drone racing: Learning agile flight in dynamic environments. In Proceedings of the Conference on Robot Learning (CoRL), Zürich, Switzerland, 29–31 October 2018; pp. 133–145.
+7. Ahmad, A.; Cheema, A.A.; Finlay, D. A survey of radio propagation channel modelling for low altitude flying base stations. Comput. Netw. 2020, 171, 107122.
