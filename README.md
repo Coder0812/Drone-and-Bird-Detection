@@ -42,11 +42,11 @@ To create a real-time video Drone and Bird detection system which will detect ob
 
 ➢UAVs can be hijacked or manipulated. They can also trespass into authorized areas such as airports and military zones. While convenient surveillance is an advantageous use of drones, it can become a disadvantage with severe consequences when done by third parties.
 
-➢ With the advent of computer vision and image processing, vision based Drone detection techniques are widely used in recent times. This technique provides numerous advantages over the conventional system such as quicker response and wider coverage area. Many algorithms are available for fir Drone and Bird detection. These algorithms use convolution neural networks which give way better accuracy in detection than the conventional methods of detection.
+➢ With the advent of computer vision and image processing, vision based Drone detection techniques are widely used in recent times. This technique provides numerous advantages over the conventional system such as quicker response and wider coverage area. Many algorithms are available for Drone and Bird detection. These algorithms use convolution neural networks which give way better accuracy in detection than the conventional methods of detection.
 
-➢Deep learning algorithms can learn the useful features for fire and smoke detection from a video source. Convolutional neural networks are a branch of deep learning that can extract topological properties from an image.
+➢Deep learning algorithms can learn the useful features for Bird and Drone detection from a video source. Convolutional neural networks are a branch of deep learning that can extract topological properties from an image.
 
-➢ In our approach we use convolutional neural networks to train the system for intelligently detecting fire. This is done by training the system on a very diverse dataset of Drone,Bird  images. This can successfully improve the accuracy of detection. This method will improve the accuracy of detection than the existing vision based models.
+➢ In our approach we use convolutional neural networks to train the system for intelligently detecting drone. This is done by training the system on a very diverse dataset of Drone,Bird  images. This can successfully improve the accuracy of detection. This method will improve the accuracy of detection than the existing vision based models.
 
 # YoloV5:
 ➢ Identification of objects in an image considered a common assignment for the human brain, though not so trivial for a machine. Identification and localization of objects in photos is a computer vision task called ‘object detection’, and several algorithms has emerged in the past few years to tackle the problem. One of the most popular algorithms to date for real-time object detection is YOLO (You Only Look Once).
@@ -77,7 +77,7 @@ This Module is divided into two parts:
 
 ➢ There are other models as well but YOLOv5 is smaller and generally easier to use in production. Given it is natively implemented in PyTorch (rather than Darknet), modifying the architecture and exporting and deployment to many environments is straightforward.
 
-➢ YOLOv5 was used to train and test our model for various classes like Fire and smoke. We trained it for 149 epochs and achieved an accuracy of approximately 91%.
+➢ YOLOv5 was used to train and test our model for various classes like Drone and Bird. We trained it for 150 epochs and achieved an accuracy of approximately 97%.
 
 # Setup:
 nstallation
