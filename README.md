@@ -57,7 +57,7 @@ $ cd yolov5
 # Methodology:
 The Drone and Bird detection system is a program that focuses on implementing real time Drone and Bird detection. It is a prototype of a new product that comprises of the main module: Drone and Bird detection and then showing on view finder whether the object is either Drone, Bird or not.
 
-Droen and Bird Module
+Drone and Bird Module
 
 This Module is divided into two parts:
 
